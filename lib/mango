@@ -1,0 +1,6 @@
+ CircleAvatarWithTransition(
+                      primaryColor: Colors.green,
+                      image: AssetImage("assets/images/Circle four.png"),
+                      size: 100.0,
+                      transitionBorderwidth: 20.0,
+                    ),
